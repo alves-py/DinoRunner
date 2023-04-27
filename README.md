@@ -5,7 +5,11 @@
 
 # DinoRunner
 
-Só para descrever
+Este é um jogo simples feito em Python usando a biblioteca Pygame. Foi criado como parte do processo de admissão para a Jala University. O objetivo do jogo é guiar o dinossauro através de um cenário com obstáculos e coletar o máximo de pontos possível.
+
+Para jogar, o usuário deve usar as setas para cima para fazer o dinossauro pular e as setas para baixo para fazê-lo se abaixar. O jogo termina quando o dinossauro colide com um obstáculo. O jogador pode coletar pontos ao pular sobre obstáculos ou pegar objetos especiais.
+
+Este jogo é uma ótima maneira de praticar suas habilidades em Python e aprender a usar a biblioteca Pygame. Espero que você se divirta jogando!
 
 
 

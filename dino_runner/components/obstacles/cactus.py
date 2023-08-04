@@ -1,5 +1,4 @@
 import random
-from tkinter import S
 
 from dino_runner.components.obstacles.obstacle import Obstacle
 from dino_runner.utils.constants import LARGE_CACTUS, SMALL_CACTUS
@@ -12,3 +11,4 @@ class Cactus(Obstacle):
             self.rect.y = 325
         else:
             self.rect.y = 300
+
